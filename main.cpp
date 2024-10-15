@@ -12,6 +12,7 @@ void arraycreation(){
         cin>>arr[i];
     }
     // hello
+    // dddd
 }
 void swap(int a, int b){
     int temp=arr[a];
